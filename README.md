@@ -6,4 +6,4 @@
 - 🌐 I speak Portuguese, English and a little bit of German.
 - 🥅 Late 2020 Goals: Contribute more to open source projects.
 - ⚡ Fun facts: I love heavy metal music and meeting new people.
-- 📫 Reach me: [e-mail](mailto:felipebelinassi@gmail.com), [linkedin](https://www.linkedin.com/in/felipe-belinassi/).
+- 📫 Reach me: [email](mailto:felipebelinassi@gmail.com), [LinkedIn](https://www.linkedin.com/in/felipe-belinassi/).
