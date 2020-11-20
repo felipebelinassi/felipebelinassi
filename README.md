@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/aLwtkCV5IKfdrBkQOh/giphy.gif" alt="Wazzup!" width="300"/>
+<img src="https://media.giphy.com/media/aLwtkCV5IKfdrBkQOh/giphy-downsized.gif" alt="Wazzup!" width="300"/>
 
 #### I'm a Back-End Developer from São Paulo, Brazil.
 - 🌱 Currently learning TypeScript.
