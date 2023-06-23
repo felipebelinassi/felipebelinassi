@@ -5,5 +5,5 @@
 - 💬 Ask me about Javascript/TypeScript and NodeJS/Express.
 - 🌐 I speak Portuguese, English and I'm learning German.
 - 🥅 Goals: Work on personal projects, maybe something related to music.
-- ⚡ Fun facts: I love metal music and meeting new people.
+- ⚡ I love metal music and meeting new people.
 - 📫 Reach me: [email](mailto:felipebelinassi@gmail.com), [LinkedIn](https://www.linkedin.com/in/felipe-belinassi/).
